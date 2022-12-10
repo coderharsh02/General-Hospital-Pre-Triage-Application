@@ -1,0 +1,60 @@
+//######################################################
+// Project: General Hospital Pre-Triage Application  ###
+//######################################################
+
+For understanding the Object-Oriented Programming and it's four basic 
+aspects i.e., abstraction, encapsulation, inheritance, and polymorphism
+the best way is through C++ language. After having basic Programming
+experience with c language that is procedural language working on 
+c++ using classes and objects was something new. 
+
+At start it feels like why we are learning all this when we have 
+c language but as time passes we starts appreciating the object 
+Oriented way of Programming. We can start relating a problem to
+real life problem.
+
+As we have online mode for the delivery of the lectures, it is 
+difficult for both professor and students to keep up, but I would
+appreciate my professor who taught me the way of coding. Setting up 
+the project, reading instructions, understanding them and transforming
+them to code. This was something easy to hear but hard to develop but
+watching my professor coding I was able to do well in forming the logics
+for solving problems.
+
+This semester taught me how to debug the code and how to watch on 
+variables we need. After the mid-exams I was very much confident over
+Debugging and Walk-through skills. All this was explained in IPC course
+but I was not that much good in programming at that time but it 
+feels like I can also do programming after attending this course.
+
+Weekly workshops and quizzes helped me a lot to be on track as for
+the quiz part we need to read notes and the same would be implemented 
+in the workshops and thus I was able to keep up with my classes.
+
+On top of that this project totally boost me up, I have started working
+on it the day it was released. I have to look at recorded lectures,
+go through the notes again and again but it was fun as I was learning
+and implementing those concepts. Deadlines are always helpful to be
+on the timeline and they forced me to keep working on the milestones
+till I achieve the same output. 
+
+Lectures, quizzes, workshops helped me to understand each and every 
+concepts of the object Oriented paradigm and project helped we to 
+implement those concepts all at one and form an application. I was
+able to learn by doing projects.
+
+Milestone 5 was the most challenging part of the project, we need to 
+get data from the files, save data back to the files, this was something
+similar to ipc project and it was failure for me at that time and that's
+why I was afraid if I would be able to do it? But this time I was having 
+experience and have given time to programming having such motivation
+I started working on Milestone 5 load function was the most time taking
+function, as I have to make changes to files created earlier. 
+
+This project taught me how to break a big problem into small milestones,
+also our solution may work for one milestone but we may need to update 
+it if it fails for the other test cases and that is the process of 
+development. Write code, clear errors, clear bugs and repeat. I can
+seat for long time in front of computer screens without having any 
+stress and started loving coding all thanks to this course and my 
+professor. 
